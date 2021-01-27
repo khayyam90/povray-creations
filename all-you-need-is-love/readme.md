@@ -6,4 +6,4 @@ Rendered with Megapov
 
 Run run.sh to render
 
-![](https://github.com/khayyam90/povray-creations/tree/master/all-you-need-is-love/all-you-need-is-love.png) 
+![](https://raw.githubusercontent.com/khayyam90/povray-creations/master/all-you-need-is-love/all-you-need-is-love.png) 
