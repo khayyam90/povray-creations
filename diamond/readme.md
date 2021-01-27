@@ -4,4 +4,4 @@ Illustration of refraction into glass
 
 run with bash run.sh
 
-![](https://github.com/khayyam90/povray-creations/tree/master/diamond/diamond.png) 
+![](https://raw.githubusercontent.com/khayyam90/povray-creations/master/diamond/diamond.png) 
