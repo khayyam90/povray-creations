@@ -9,4 +9,4 @@ Render with
 bash run.sh
 ```
 
-![](https://github.com/khayyam90/povray-creations/tree/master/complexity/complexity.png) 
+![](https://raw.githubusercontent.com/khayyam90/povray-creations/master/complexity/complexity.png) 
