@@ -6,4 +6,4 @@ The city shape follows a gaussian curve
 
 Run run.sh to render
 
-![](https://github.com/khayyam90/povray-creations/tree/master/city-on-the-sea/city.png) 
+![](https://raw.githubusercontent.com/khayyam90/povray-creations/master/city-on-the-sea/city.png) 
