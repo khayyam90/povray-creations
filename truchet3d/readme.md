@@ -4,4 +4,4 @@
 
 run with bash run.sh
 
-![](https://github.com/khayyam90/povray-creations/tree/master/truchet/truchet.png) 
+![](https://raw.githubusercontent.com/khayyam90/povray-creations/master/truchet3d/truchet.png) 
